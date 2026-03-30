@@ -1,0 +1,7 @@
+{
+    "name": "John Doe",
+    "position": "Backend Engineer",
+    "department": "Engineering",
+    "email": "John.Doe@linksys.com",
+    "expertise": ["APIs", "Database", "MQTT"]
+}

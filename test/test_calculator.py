@@ -3,7 +3,7 @@
 A test tool for calculator.
 """
 
-from calculator import add
+from calculator import add, subtract
 
 def test_add_positive_numbers():
     assert add(1, 2) == 3
